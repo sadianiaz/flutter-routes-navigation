@@ -1,16 +1,72 @@
-# flutternavigation
+Flutter Core Concepts Project
 
-A new Flutter project.
+This project demonstrates essential Flutter concepts with practical examples — from navigation to networking and UI handling. Perfect for beginners to understand real-world Flutter app development.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+Routes & Navigation – Navigate between multiple screens easily.
 
-A few resources to get you started if this is your first Flutter project:
+Named Routes & Arguments – Pass and extract data between pages.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Return Data From Screen – Send results back to previous screens.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Retrieve Data From TextFields – Handle and display user input.
+
+URLs in Flutter – Open links in browser or app view.
+
+Fetching Data From the Internet – Get data from REST APIs using http.
+
+Sending Data to the Internet – Create new data via HTTP POST.
+
+Deleting Data From the Internet – Remove data with DELETE requests.
+
+Send Data To Screen – Transfer data between pages dynamically.
+
+WebSockets – Stream live updates efficiently.
+
+Avoiding Jank – Improve performance by isolating heavy work.
+
+🧠 Why Use This Project
+
+Learn essential Flutter fundamentals in one place.
+
+Explore API communication and state handling.
+
+Understand how to build scalable, responsive apps.
+
+Ideal for students, beginners, and Flutter enthusiasts.
+
+🛠️ Tech Stack
+
+Flutter (SDK)
+
+Dart
+
+HTTP package
+
+URL Launcher
+
+Async & FutureBuilder
+
+Stateful & Stateless Widgets
+
+▶️ How to Run
+
+Clone the repo:
+
+git clone https://github.com/yourusername/flutter-core-concepts.git
+
+
+Navigate to the project:
+
+cd flutter-core-concepts
+
+
+Install dependencies:
+
+flutter pub get
+
+
+Run the app:
+
+flutter run
